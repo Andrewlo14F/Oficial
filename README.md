@@ -1,1 +1,1 @@
-hola,estoy estudiando con git
+Hola, GitHub
